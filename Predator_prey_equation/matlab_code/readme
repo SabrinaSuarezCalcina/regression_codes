@@ -2,3 +2,5 @@ This folder contains the code that calculates the regression directly using the 
 that is, without calculating persistent homology.
 First, you need to go to the Matrix folder, there you will find the link that contains the path to the matrices of the Predator-prey equation.
 So just run the code!!!
+Finally, the result will be the only file, this file will be used as input to execute the code made in python (go to the 'python_code' folder)
+that calculates the regression.
